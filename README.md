@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Iosmanthus Teng. I'm a database engineer working at PingCAP and having great interst in distributed system and operating system.
+I'm Iosmanthus Teng. I'm a database engineer working at PingCAP and having great interest in distributed system and operating system.
 
 - 🌱 I’m currently learning replication protocols and distributed transactions.
 - 📫 How to reach me: myosmanthustree@gmail.com
