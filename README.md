@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-I'm Iosmanthus Teng. I'm a database engineer working at PingCAP and having great interest in distributed system and operating system.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iosmanthus&show_icons=true&count_private=true" />
 
-- 🌱 I’m currently learning replication protocols and distributed transactions.
-- 📫 How to reach me: myosmanthustree@gmail.com
-- ⚡ Fun fact: I'm a girl.
+```rust
+assert_eq!(iosmanthus, Person {
+    interest: vec![
+        "Distributed System",
+        "Database",
+        "NixOS",
+        "Rust"
+    ],
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iosmanthus&count_private=true&show_icons=true&theme=default)](https://github.com/iosmanthus)
+    profession: "PingCAP",
+    email: "dengliming@pingcap.com",
+    location: "Guangzhou, China"
+});
+```
