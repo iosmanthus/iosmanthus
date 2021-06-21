@@ -8,7 +8,8 @@ assert_eq!(iosmanthus, Person {
         "Distributed System",
         "Database",
         "NixOS",
-        "Rust"
+        "Rust",
+        "Cat"
     ],
 
     profession: "PingCAP",
