@@ -13,8 +13,7 @@ assert_eq!(iosmanthus, Person {
     ],
 
     profession: "PingCAP",
-    email: "dengliming@pingcap.com",
-    location: "Guangzhou, China"
+    email: "dengliming@pingcap.com"
 });
 
 ```
