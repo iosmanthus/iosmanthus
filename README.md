@@ -1,6 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iosmanthus&show_icons=true&count_private=true&hide_title=true" />
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Encoded me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Self in Rust 
 ```rust
 assert_eq!(iosmanthus, Person {
     tags: vec![Tag {
@@ -8,11 +6,11 @@ assert_eq!(iosmanthus, Person {
         alt: String::from("hen-pecked"),
     }],
     interest: vec![
-        "Distributed System",
+        "Cat"
         "Database",
+        "Distributed System",
         "NixOS",
         "Rust",
-        "Cat"
     ],
     working_at: "PingCAP",
     email: "dengliming@pingcap.com"
