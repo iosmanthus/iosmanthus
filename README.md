@@ -25,7 +25,7 @@
 
     careers = [{
       name = "PingCAP";
-      url = "https://pingcap.com";
+      url = "https://www.pingcap.com";
     }];
 
     contact = {
