@@ -4,17 +4,6 @@
 , ...
 }: {
   users.users.iosmanthus = {
-    tags = [
-      {
-        name = "怕老婆";
-        alt = "hen-pecked";
-      }
-      {
-        name = "猫奴";
-        alt = "cat lover";
-      }
-    ];
-
     interest = [
       "Cat"
       "Database"
@@ -41,6 +30,8 @@
       font = pkgs.meslo-lg;
       email = pkgs.thunderbird;
     };
+
+    tags = [ "hen-pecked" "cat lover" ];
   };
 }
 ```
