@@ -36,4 +36,4 @@
 }
 ```
 ### Listening
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001894.8d59bcfc30354aefab4412215c6166a3.0701)](https://github.com/rayriffy/apple-music-github-profile)
+![https://github-profile-apple-music.web.app/api/v1/users/0x5OD3yn9djEXkI3rlxw/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/0x5OD3yn9djEXkI3rlxw/recent/played/tracks?template=template_1_3)
