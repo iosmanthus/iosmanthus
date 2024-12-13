@@ -36,4 +36,4 @@
 }
 ```
 ### Listening
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=myosmanthus&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001894.8d59bcfc30354aefab4412215c6166a3.0701)](https://github.com/rayriffy/apple-music-github-profile)
